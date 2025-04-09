@@ -1,0 +1,6 @@
+/aspnetapp/.vs/
+/aspnetapp/bin/
+/aspnetapp/obj/
+/aspnetapp/wwwroot/
+*.exe
+/published
